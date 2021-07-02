@@ -13,4 +13,19 @@ El docente recomendo las siguientes extensiones:
 
 ## ARCHIVOS COMPARTIDOS 
 ### CLASE MIERCOLES JUNIO 30 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+A continuación se muestra el material brindado por el docente para el trabajo en clase: *Cada item lo redigirá al lugar donde se encuentra el archivo, seleccione Download para descargar. Puece descarga cada archivo por separado o puede descargar la carpeta que contiene todos los archivos.
+- [Carpeta descargas](30Junio2021/Descargas)
+  - [PopperJs](30Junio2021/Descargas/@popperjs.rar)
+  - [Bootstrap](30Junio2021/Descargas/bootstrap-5.0.1-dist.zip)
+  - [Jquery](30Junio2021/Descargas/jquery-3.6.0.min.rar)
+Durante la clase se realizaron unos códigos como actividad donde se descomprimieron y agregaron los archivo mostrados anteriormente.
+- [Proyecto Clase](30Junio2021/Poyecto)
+
+### CLASE MIERCOLES JULIO 1
+Al inicio de la clase se hizo la distribución de los grupos, correspondientes a los retos semanales.
+- [Documento Grupos (PDF) ](1Julio2021/CreacionGrupos/GW3pROY.pdf)
+
+| Comando | Descripción |
+| --- | --- |
+| git status | Enumera todos los archivos nuevos o modificados |
+| git diff | Muestra las diferencias de archivo que no han sido preparadas |

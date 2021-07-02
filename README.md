@@ -10,4 +10,7 @@ El docente recomendo las siguientes extensiones:
 - **vscode-icons** : Muestra un icono caracteritico a la extensión de los archivos.
 - **Live Server** : Renderiza y ejecuta un servidor local para la previsualización de la pagina web que se esta creando.
 - **Bracket pair Colorizer** : Ayuda a la detección de diferentes aperturas de parentesis, llaves y corchetes por medio de colores.
-Archivos 
+
+## ARCHIVOS COMPARTIDOS 
+### CLASE MIERCOLES JUNIO 30 
+

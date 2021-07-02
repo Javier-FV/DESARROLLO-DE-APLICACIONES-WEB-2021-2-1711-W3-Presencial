@@ -8,18 +8,16 @@ Repositorio para compartir documentación mostrada en clase.
 
 - [Recomendaciones editor de texto](#recomendaciones-editor-de-texto)
 - [ARCHIVOS COMPARTIDOS](#archivos-compartidos)
-- [Advanced Formatting tips](#advanced-formatting-tips)
-  * [`left` alignment](#left-alignment)
-  * [`right` alignment](#right-alignment)
-  * [`center` alignment example](#center-alignment-example)
-  * [`collapse` Sections](#collapse-sections)
-  * [`additional links`](#additional-links)
-  * [Badges](#badges)
-- [Useful packages](#useful-packages)
-- [Useful utilities](#useful-utilities)
-- [How Serverless uses markdown](#how-serverless-uses-markdown)
-  * [DEMO](#demo)
-- [Other Markdown Resources](#other-markdown-resources)
+  * [CLASE MIERCOLES JUNIO 30 ](#clase-miercoles-junio-30)
+  * [CLASE MIERCOLES JULIO 1](#clase-miercoles-julio-1)
+  * [GRUPO G1](#grupo-g1)
+  * [GRUPO G2](#grupo-g2)
+  * [GRUPO G3](#grupo-g3)
+  * [GRUPO G4](#grupo-g4)
+  * [GRUPO G5](#grupo-g5)
+  * [GRUPO G6](#grupo-g6)
+  * [GRUPO G7](#grupo-g7)
+  * [GRUPO G8](#grupo-g8)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->

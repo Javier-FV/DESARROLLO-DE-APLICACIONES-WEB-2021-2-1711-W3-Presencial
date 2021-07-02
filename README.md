@@ -50,6 +50,8 @@ Durante la clase se realizaron unos códigos como actividad donde se descomprimi
 
 ### CLASE MIERCOLES JULIO 1
 Al inicio de la clase se hizo la distribución de los grupos, correspondientes a los retos semanales.
+- [Diapositivas Clase](1Julio2021/Diapositivas/GuiaJS.pdf)
+- [Proyecto](1Julio2021/Proyecto)
 - [Documento Grupos (PDF) ](1Julio2021/CreacionGrupos/GW3pROY.pdf)
 
 ### GRUPOS
@@ -115,6 +117,3 @@ Al inicio de la clase se hizo la distribución de los grupos, correspondientes a
 |4981| 1200205| Valencia colman| Laura sofia |
 |4961| 1200078| Cortes pastran| Liceth natalia| 
 |4979| 1200194| Ariza arenas| Diego alexander|
-
-- [Diapositivas Clase](1Julio2021/Diapositivas/GuiaJS.pdf)
-- [Proyecto](1Julio2021/Proyecto)

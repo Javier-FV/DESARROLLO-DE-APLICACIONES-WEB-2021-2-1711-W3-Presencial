@@ -13,4 +13,5 @@ El docente recomendo las siguientes extensiones:
 
 ## ARCHIVOS COMPARTIDOS 
 ### CLASE MIERCOLES JUNIO 30 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 

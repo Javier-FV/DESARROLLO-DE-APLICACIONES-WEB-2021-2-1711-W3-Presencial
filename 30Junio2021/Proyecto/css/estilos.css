@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+.titulo{    
+    color: white; font-size: 2rem;
+    margin: auto !important;
+    width: max-content; 
+}
+.sub-titulo{    
+    color: white; font-size: 2rem;
+    width: max-content;
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-left: 20px; 
+}
+
+h2{    
+    color: white; 
+    margin: auto !important;
+    width: max-content; 
+}
+h3{    
+    color: white;
+    margin: auto !important;
+    width: max-content; 
+}
+
+#acento{
+    text-decoration-line:overline;
+    text-decoration-style:dotted;
+    font-weight: 900;
+    color: brown;
+}
+.caja{
+    margin: 8px 3px 3px 3px;
+    background-color:white;
+}
